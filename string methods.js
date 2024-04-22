@@ -8,7 +8,7 @@ st = st.toLowerCase();
 console.log(st);
 
 //str.trim
-let s = "hello      world  4";
+let s = "hello      programming  4";
 console.log(s.trim());
 
 //str slice returns part of strig
