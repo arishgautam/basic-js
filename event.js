@@ -1,14 +1,14 @@
-// events in js
+ // events in js
 let btn1 = document.querySelector("#btn1");
-// btn1.onclick = () => {
-// console.log("button was clicked ");
-// }
+ btn1.onclick = () => {
+ console.log("button was clicked ");
+ }
 // // with objcect
-// let btn2 = document.querySelector("#btn2");
-// btn2.onclick = (e) => {
-//     console.log(e);
-//     console.log(e.type);
-// }
+ let btn2 = document.querySelector("#btn2");
+ btn2.onclick = (e) => {
+     console.log(e);
+    console.log(e.type);
+ }
 // event listners
 
 //add event listners
